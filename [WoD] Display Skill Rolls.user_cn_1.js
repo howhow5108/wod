@@ -72,7 +72,7 @@
       //console.log("ABC",data);
     const jq = $( data );
     const markers = jq.find( 'li' ).map( function () {
-      const match = /^(?<rollType>.+) 公式为：(?<rollCalculation>.+?)( \((?<modifier>[+\-]\d*%?)\))?$/g.exec( $( this ).text() );
+      const match = /^(?<rollType>.+)公式为：(?<rollCalculation>.+?)( \((?<modifier>[+\-]\d*%?)\))?$/g.exec( $( this ).text() );
       if ( !match )
       {
         return;
