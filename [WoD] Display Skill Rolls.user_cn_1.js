@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         [WoD] Display Skill Rolls
+// @name         [WoD] Display Skill Rolls_CN
 // @namespace    com.dobydigital.userscripts.wod
 // @version      2021.06.27.8
 // @description  Calculates skill rolls, and adds a new table column on the skills page.
