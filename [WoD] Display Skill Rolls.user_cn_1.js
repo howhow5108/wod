@@ -7,7 +7,6 @@
 // @home         https://github.com/XaeroDegreaz/world-of-dungeons-userscripts
 // @supportUrl   https://github.com/XaeroDegreaz/world-of-dungeons-userscripts/issues
 // @source       https://raw.githubusercontent.com/XaeroDegreaz/world-of-dungeons-userscripts/main/src/display-skill-rolls.user.js
-// @match        *://*.world-of-dungeons.net/wod/spiel/hero/skills*
 // @match        *://*.world-of-dungeons.org/wod/spiel/hero/skills*
 // @icon         http://info.world-of-dungeons.net/wod/css/WOD.gif
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
